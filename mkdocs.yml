@@ -1,0 +1,15 @@
+site_name: Dokknet Example
+
+theme:
+  name: material
+  custom_dir: 'theme'
+  palette:
+    primary: 'indigo'
+
+plugins:
+  - mkdocs-paywall:
+      show_toggle_button: true
+
+extra_javascript:
+  - 'javascripts/toggle-paywall.js'
+

@@ -1,0 +1,4 @@
+-rrequirements.txt
+awscli~=1.17
+boto3==1.11
+pip-tools~=4.4

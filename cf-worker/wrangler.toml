@@ -1,0 +1,6 @@
+name = "cf-worker"
+type = "webpack"
+workers_dev = true
+
+[env.production]
+route = "dokknet-example.com/*"
