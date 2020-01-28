@@ -45,7 +45,7 @@ Run `mkdocs serve` to run the site locally. There is no way to run Cloudflare Wo
 ### Credentials
 
 Provide AWS credentials in the `AWS_ACCESS_KEY_ID`, `AWS_SECRET_ACCESS_KEY` and `AWS_REGION` environment variables.
-Provide Cloudflare credentials in the `CF_ACCOUNT_ID` and `CF_ZONE_ID` `CF_API_TOKEN` environment variables.
+Provide Cloudflare credentials in the `CF_ACCOUNT_ID`, `CF_ZONE_ID` and `CF_API_TOKEN` environment variables.
 
 ### Deployment command
 
